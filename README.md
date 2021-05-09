@@ -3,3 +3,5 @@
 ## References
 - Repos
   - [SpringerNLP](https://github.com/SpringerNLP)
+- Books
+  - [Deep Learning for NLP and Speech Recognition](https://amzn.to/3xXLVZ0)
