@@ -2,3 +2,5 @@
 *.pyc
 .ipynb_checkpoints
 Chapter03/data/corpora/
+Chapter04/data/
+Chapter04/free-spoken-digit-dataset/
